@@ -1,0 +1,11 @@
+[project]
+name = 'locopy'
+version = 
+readme = "README.rst"
+description="Loading/Unloading to Amazon Redshift using Python",
+license = "Apache-2.0"
+author = "Faisal Dosani <faisal.dosani@capitalone.com>"
+repository = "https://github.com/capitalone/locopy"
+documentation = "https://capitalone.github.io/locopy/"
+# classifiers  = TODO
+
